@@ -8,7 +8,7 @@ This is an app which has the full schedule of a student and day to day activitie
 <p align="left">
 <img width=20% src="screenshots/Screenshot1.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width=20% src="screenshots/Screenshot2.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-<img width=20% src="screenshotsScreenshot3.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="screenshots/Screenshot3.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width=20% src="screenshots/Screenshot4.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width=20% src="screenshots/Screenshot5.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width=20% src="screenshots/Screenshot6.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
