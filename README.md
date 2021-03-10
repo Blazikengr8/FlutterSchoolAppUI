@@ -1,4 +1,4 @@
-# Submission by Cookie Clan for T-Hacks v3.0
+# Submission
 Entry for internship.
 <h2 align= "left"><b>The App</b></h2>
 This is an app which has the full schedule of a student and day to day activities.It has the UI of the entire app frontend.
