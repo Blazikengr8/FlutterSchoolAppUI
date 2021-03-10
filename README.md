@@ -1,16 +1,16 @@
-# schoolappproject
+# Submission by Cookie Clan for T-Hacks v3.0
+Entry for internship.
+<h2 align= "left"><b>The Appt</b></h2>
+This is an app which has the full schedule of a student and day to day activities.It has the UI of the entire app frontend.
 
-Internship test ui
+<h2 align= "left"><b>A Peek at the App</b></h2>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="left">
+<img width=20% src="screenshots/Screenshot1.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="screenshots/Screenshot2.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+<img width=20% src="screenshotsScreenshot3.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="screenshots/Screenshot4.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="screenshots/Screenshot5.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="screenshots/Screenshot6.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="screenshots/Screenshot7.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  
+</p>
