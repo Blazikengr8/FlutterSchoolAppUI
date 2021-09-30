@@ -1,2 +1,2 @@
-# HacktoberFestFlutter
-HacktoberFest Flutter Apps
+# FlutterSchoolAppUI
+FlutterSchoolAppUI Flutter Apps
